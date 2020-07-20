@@ -1,0 +1,2 @@
+This is test from brach1
+This is test from branch2

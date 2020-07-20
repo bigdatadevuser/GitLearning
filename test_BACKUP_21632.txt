@@ -1,3 +1,6 @@
 This is test from brach1
+<<<<<<< HEAD
 This is from again branch test
+=======
 This is test from branch2
+>>>>>>> 06316232730ae0fef30c8af0d380b3fdb55a2902
